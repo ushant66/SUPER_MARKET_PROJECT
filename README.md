@@ -15,4 +15,3 @@ This project analyzes **sales and inventory data** of a supermarket to gain insi
 - Visualization of sales trends, top products, and customer buying patterns
 - Insights for inventory management and sales optimization
 
-## 📂 Project Structure
